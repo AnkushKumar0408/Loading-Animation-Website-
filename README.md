@@ -1,6 +1,6 @@
 # Loading-Animation-Website-
 
-So guys this is 18th project of my 30 days frontend project challenge.
+So guys this is 18th project of my 25 days frontend project challenge.
 
 I used HTML, CSS and GSAP(Library of JavaScript).
 
